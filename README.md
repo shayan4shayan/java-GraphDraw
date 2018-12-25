@@ -35,3 +35,7 @@ Usage:
         frame.setSize(800, 800);
         frame.setVisible(true);
 
+
+Output:
+
+![alt text](https://github.com/shayan4shayan/java-GraphDraw/blob/master/GraphDraw.png)
