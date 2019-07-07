@@ -1,7 +1,7 @@
 # java-GraphDraw
 Java GraphDraw is a library for drawing graphs in java swing 
 
-Usage:
+##Usage
 
         JFrame frame = new JFrame();
         //create an object
@@ -36,6 +36,6 @@ Usage:
         frame.setVisible(true);
 
 
-Output:
+##Output
 
 ![alt text](https://github.com/shayan4shayan/java-GraphDraw/blob/master/GraphDraw.png)
